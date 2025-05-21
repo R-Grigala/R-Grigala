@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**Main language:** ![Python](https://img.shields.io/badge/language-Python-blue)
+
 <!--
 **R-Grigala/R-Grigala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
