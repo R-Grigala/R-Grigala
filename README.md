@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 **Main language:** ![Python](https://img.shields.io/badge/language-Python-blue)
-
-![Python](https://img.shields.io/badge/Python-80%25-blue)
-![HTML](https://img.shields.io/badge/HTML-15%25-orange)
-![CSS](https://img.shields.io/badge/CSS-5%25-yellow)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Grigala&theme=tokyonight"/>
 
 <!--
 **R-Grigala/R-Grigala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
