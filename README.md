@@ -1,5 +1,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-Grigala&theme=tokyonight"/>
 
-<img src="https://raw.githubusercontent.com/R-Grigala/R-Grigala/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varsimashviliLuka/varsimashviliLuka/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varsimashviliLuka/varsimashviliLuka/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/varsimashviliLuka/varsimashviliLuka/output/github-snake.svg" />
+</picture>
